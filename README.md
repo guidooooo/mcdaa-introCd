@@ -13,3 +13,6 @@ Cada carpeta del directorio raiz tiene adentro los siguientes archivos:
 1. Archivo PDF con el informe final de la tarea
 2. Archivo requirements.txt con las librerias necesarias para correr la notebook de trabajo
 3. Archivo ipynb con el sufijo _entregaFinal con el codigo que se uso para elaborar el informe
+4. Carpeta "data" con los archivos csv que se usaron como fuente de datos
+5. Carpeta "work" con archivos ipynb de trabajo y exploracion
+6. Carpeta "letra" con los archivos entregados por la catedra
