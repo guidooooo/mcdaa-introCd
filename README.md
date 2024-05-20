@@ -1,4 +1,7 @@
 # Introducción a la Ciencia de Datos 2024 - Grupo 1
+## Integrantes
+1. Matias López
+2. Guido Pereyra
 
 Este repositorio contiene los informes y notebooks de las tareas propuestas para la edición 2024 del curso de Introducción a la Ciencia de Datos del grupo 1.
 
