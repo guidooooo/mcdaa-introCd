@@ -280,5 +280,7 @@ STOPS: list[str] = [
     "whan",
     "shall",
     "may",
-    "thus"
+    "thus",
+    "hath",
+    "doth"
 ]
