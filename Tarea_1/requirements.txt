@@ -5,3 +5,5 @@ pymysql
 seaborn
 pillow
 wordcloud
+collections
+nltk.corpus
